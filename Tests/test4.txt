@@ -1,0 +1,3 @@
+Hello my name is #NAME#, I am #AGE# old.
+I come from #LIVE#.
+I really love my #LOVE#.
