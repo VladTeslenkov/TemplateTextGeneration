@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (test_TemplateTextGeneration.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  pch.cpp
+  test_highlightLines.cpp
+     Создается библиотека D:\Microsoft VS2022\TemplateTextGeneration\x64\Debug\test_highlightLines.lib и объект D:\Microsoft VS2022\TemplateTextGeneration\x64\Debug\test_highlightLines.exp
+  test_TemplateTextGeneration.vcxproj -> D:\Microsoft VS2022\TemplateTextGeneration\x64\Debug\test_highlightLines.dll
